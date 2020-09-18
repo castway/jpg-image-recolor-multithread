@@ -1,0 +1,7 @@
+# Ignore IDE-specific files
+
+.settings
+
+# Ignore the maven target folder
+
+target
